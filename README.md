@@ -1,2 +1,2 @@
 # VOSON-JOSS-Paper
-JOSS Paper Submission
+JOSS Paper Submission Repository.
